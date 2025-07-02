@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>welcome to college <br> mrec</p> <!--paragraph with line break-->
+    <b>hello</b><br>  <!--bold text-->
+    <i>welcome back guys</i><br>  <!--italic text-->
+    <u>this is underlined text</u><br> <!--underlined text-->
+    <big>python full stack</big><br>   <!--big text-->
+    <small>python full stack</small><br>  <!--small text-->
+    <mark>python full stack</mark><br>   <!--highlighted text-->
+    <hr>session 2<hr>  <!--horizontal rule-->
+    <p>water chemical formula is H<sub>2</sub>O</p>  <!--subscript-->
+    <p>glucose chemical formula is C<sub>6</sub>H<sub>12</sub>O<sub>6</sub></p>  
+    <p>(a+b)<sup>2</sup>=a<sup>2</sup>+b<sup>2</sup>+2ab</p>  <!--superscript-->
+    <p>this is a <del>deleted</del> text</p>  <!--deleted text-->
+</body>
+</html>
