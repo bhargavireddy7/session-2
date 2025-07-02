@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <pre>My Name is Bhargavi
+I am currently pursuing my BTECH in MREC
+My Current CGPA is 9.2</pre> <!--performed text-->
+<a href="https://www.geeksforgeeks.org/dbms/normal-forms-in-dbms/" target="/"><img src="normalization.png" alt="no image" height="200px" width="200px"> normalization in dbms</a>
+<!-- image in same folder-->
+<a href="https://www.geeksforgeeks.org/dbms/normal-forms-in-dbms/" target="cjghjttj"><img src="family.jpg" alt="no image" height="200px" width="200px"> normalization in dbms</a>
+<!-- image not in same folder-->
+<ul>  
+    Cricket Team
+    <li>virat kohli</li>
+    <li>subhman gill</li>
+    <li>kl rahul</li>
+    <li>rohit sharma</li>
+</ul>
+<ol>
+    <li>virat kohli</li>
+    <li>subhman gill</li>
+    <li>kl rahul</li>
+    <li>rohit sharma</li>
+</ol>
+<table border="1" >
+    <tr>
+    <th>Cricketer Name</th>
+    <th>Role</th>
+    </tr>
+    <tr>
+        <td>hardik</td>
+        <td>All rounder</td>
+    </tr>
+    <tr>
+        <td>virat kohli</td>
+        <td>batsman</td>
+    </tr>
+    <tr>
+        <td>rohit sharma</td>
+        <td>batsman</td>
+    </tr>
+    <tr>
+        <td>kl rahul</td>
+        <td>batsman & wicket keeper</td>
+    </tr>
+    <tr>
+        <td>krunal</td>
+        <td>All rounder</td>
+    </tr>
+    <tr>
+        <td>siraj</td>
+        <td>bowler</td>
+    </tr>
+</table>
+<table border="10">
+    <tr>
+        <th>Student Name</th>
+        <th>Department</th>
+    </tr>
+    <tr>
+        <td>bhargavi</td>
+        <td>CSD</td>
+    </tr>
+    <tr>
+        <td>Ramya</td>
+        <td>CSM</td>
+    </tr>
+    <tr>
+        <td>Geetha</td>
+        <td>CSE</td>
+    </tr>
+</table>
+</body>
+</html>  l̥
